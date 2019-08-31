@@ -1,0 +1,1 @@
+ pattern3.d  pattern3.p1:  pattern3.c digital_keypad.h common.h
